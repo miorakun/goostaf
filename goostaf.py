@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # welcome to goostaf tool for bluetooth hacking and pentesting 
 # coded by amicheh or yaser
+
 import os
 from colorama import Fore
 
